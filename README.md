@@ -13,3 +13,9 @@
 文字編碼為 UTF-8
 
 Markdown 檔名要使用 *.md 輸出文字為相同檔名的 .html
+
+## Reference links
+
+https://github.com/StackExchange/MarkdownSharp
+
+https://www.nuget.org/packages/MarkdownSharp
